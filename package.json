@@ -44,7 +44,7 @@
     "branches": [
       {
         "name": "main",
-        "prerelease": true
+        "prerelease": "true"
       }
     ]
   }
